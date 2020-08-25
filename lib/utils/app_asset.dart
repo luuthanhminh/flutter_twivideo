@@ -1,0 +1,111 @@
+class AppImages {
+  static const String icEmpty = 'assets/base/icons/ic_empty.png';
+  static const String icAppIcon = 'assets/base/icons/app_icon.png';
+  static const String icHistoryBlack = 'assets/app/icons/ic_history_black.png';
+  static const String icSearchBlack = 'assets/app/icons/ic_search_black.png';
+  static const String icMessageBlack = 'assets/app/icons/ic_message_black.png';
+  static const String icSettingBlack = 'assets/app/icons/ic_setting_black.png';
+  static const String icHistoryActive = 'assets/app/icons/ic_history_active.png';
+  static const String icSearchActive = 'assets/app/icons/ic_search_active.png';
+  static const String icMessageActive = 'assets/app/icons/ic_message_active.png';
+  static const String icSettingActive = 'assets/app/icons/ic_settings_active.png';
+  static const String icHistory = 'assets/app/icons/ic_history.png';
+  static const String icSearch = 'assets/app/icons/ic_search.png';
+  static const String icMessage = 'assets/app/icons/ic_message.png';
+  static const String icSetting = 'assets/app/icons/ic_settings.png';
+  static const String icEmail = 'assets/app/icons/ic_email.png';
+  static const String icMaleGrey = 'assets/app/icons/ic_male_grey.png';
+  static const String icMaleWhite = 'assets/app/icons/ic_male_white.png';
+  static const String icFemaleGrey = 'assets/app/icons/ic_female_grey.png';
+  static const String icFemaleWhite = 'assets/app/icons/ic_female_white.png';
+  static const String icFlag = 'assets/app/icons/ic_flag.png';
+  static const String icFlirtbeesIcon =
+      'assets/app/icons/ic_flirtbees_icon.png';
+  static const String icFlirtbeesLogo =
+      'assets/app/icons/ic_flirtbees_logo.png';
+  static const String icBackground = 'assets/app/icons/ic_background.png';
+  static const String icBack = 'assets/app/icons/ic_back.png';
+  static const String icFemaleAvatar = 'assets/app/icons/ic_female_avatar.png';
+  static const String icMaleAvatar = 'assets/app/icons/ic_male_avatar.png';
+  static const String icHeart = 'assets/app/icons/ic_heart.png';
+  static const String image1 = 'assets/app/icons/image1.png';
+  static const String image2 = 'assets/app/icons/image2.png';
+  static const String image3 = 'assets/app/icons/image3.png';
+  static const String icRecord = 'assets/app/icons/ic_record.png';
+  static const String icCamera = 'assets/app/icons/ic_camera.png';
+  static const String icMic = 'assets/app/icons/ic_mic.png';
+  static const String women = 'assets/app/icons/women.png';
+  static const String women1 = 'assets/app/icons/women1.png';
+  static const String women2 = 'assets/app/icons/women2.png';
+  static const String women3 = 'assets/app/icons/women3.png';
+  static const String icCloseWhite = 'assets/app/icons/ic_close_white.png';
+  static const String icEmailGreen = 'assets/app/icons/ic_email_green.png';
+  static const String background = 'assets/app/icons/background.png';
+  static const String icAddUserSolid = 'assets/app/icons/ic_add_user_solid.png';
+  static const String icMessageOutline = 'assets/app/icons/ic_message_outline.png';
+  static const String icSearchPink = 'assets/app/icons/ic_search_pink.png';
+  static const String icVideoCallOutline = 'assets/app/icons/ic_video_call_outline.png';
+  static const String icCloseBlack = 'assets/app/icons/ic_close_black.png';
+  static const String icLogoMSN = 'assets/app/icons/ic_logo_msn.png';
+  static const String icLogoR = 'assets/app/icons/ic_logo_r.png';
+  static const String icSigninFacebook = 'assets/app/icons/ic_signin_facebook.png';
+  static const String icSigninGoogle = 'assets/app/icons/ic_signin_google.png';
+  static const String icArrowDown = 'assets/app/icons/ic_arrow_down.png';
+  static const String icArrowUp = 'assets/app/icons/ic_arrow_up.png';
+  static const String icClock = 'assets/app/icons/ic_clock.png';
+  static const String icMessageSmall = 'assets/app/icons/ic_message_small.png';
+  static const String icCameraGreen = 'assets/app/icons/ic_camera_green.png';
+  static const String icArrowRightGrey = 'assets/app/icons/ic_arrow_right_grey.png';
+  static const String icArrowRightBlack = 'assets/app/icons/ic_arrow_right_black.png';
+  static const String icLogout = 'assets/app/icons/ic_logout.png';
+  static const String icApple = 'assets/app/icons/ic_apple.png';
+  static const String icBee = 'assets/app/icons/ic_bee.png';
+  static const String icMessageReceived = 'assets/app/icons/ic_message_received.png';
+  static const String icMessageSent = 'assets/app/icons/ic_message_sent.png';
+  static const String icEyeGrey = 'assets/app/icons/ic_eye_grey.png';
+  static const String icAddUserOutline = 'assets/app/icons/ic_add_user_outline.png';
+  static const String icGift = 'assets/app/icons/ic_gift.png';
+  static const String icMute = 'assets/app/icons/ic_mute.png';
+  static const String icSend = 'assets/app/icons/ic_send.png';
+  static const String icSwitch = 'assets/app/icons/ic_switch.png';
+  static const String icTranslate = 'assets/app/icons/ic_translate.png';
+  static const String women4 = 'assets/app/icons/women4.png';
+  static const String icMicrophoneSmall = 'assets/app/icons/ic_microphone_small.png';
+  static const String icMessageWhiteSolid = 'assets/app/icons/ic_message_white_solid.png';
+  static const String icHeartPink = 'assets/app/icons/ic_heart_pink.png';
+  static const String icHeartWhite = 'assets/app/icons/ic_heart_white.png';
+  static const String icTrash = 'assets/app/icons/ic_trash.png';
+  static const String backgroundPurchase = 'assets/app/icons/background_purchase.png';
+  static const String icGiftPink = 'assets/app/icons/ic_gift_pink.png';
+  static const String icTriangleDownWhite = 'assets/app/icons/ic_triangle_down_white.png';
+  static const String icSendFile = 'assets/app/icons/ic_send_file.png';
+  static const String icTriangleRight = 'assets/app/icons/ic_triangle_right.png';
+  static const String icTriangleLeft = 'assets/app/icons/ic_triangle_left.png';
+  static const String diamond = 'assets/app/icons/diamond.png';
+  static const String flower = 'assets/app/icons/flower.png';
+  static const String catGift = 'assets/app/icons/khao-manee-cat.png';
+  static const String strawberry = 'assets/app/icons/strawberry.png';
+  static const String tsar = 'assets/app/icons/tsar.png';
+  static const String icMessageWhite = 'assets/app/icons/ic_message_white.png';
+  static const String icAddUserTransparent = 'assets/app/icons/ic_add_user_transparent_bg.png';
+  static const String icMore = 'assets/app/icons/ic_more.png';
+  static const String icBlock = 'assets/app/icons/ic_block.png';
+  static const String icMail = 'assets/app/icons/ic_mail.png';
+  static const String icBikini = 'assets/app/icons/ic_bikini.png';
+  static const String icBaby = 'assets/app/icons/ic_baby.png';
+  static const String icExclamation = 'assets/app/icons/ic_exclamation.png';
+  static const String avatarExample = 'assets/app/icons/avatar_example.png';
+  static const String oval = 'assets/app/icons/oval.png';
+  static const String icNounHeart = 'assets/app/icons/ic_noun_heart.png';
+  static const String icCloseRedCircle = 'assets/app/icons/ic_close_red_circle.png';
+  static const String icVideoCallGreen = 'assets/app/icons/ic_video_call_green.png';
+  static const String icDotOnline = 'assets/app/icons/ic_dot_online.png';
+
+}
+
+class AppVideos {}
+
+class AppFonts {
+  static const String roboto = 'Roboto';
+  static const String lato = 'Lato';
+}

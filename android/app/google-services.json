@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "103409672257",
+    "firebase_url": "https://flirtbees-bd7da.firebaseio.com",
+    "project_id": "flirtbees-bd7da",
+    "storage_bucket": "flirtbees-bd7da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:103409672257:android:7d772d0e866b69a819e6c0",
+        "android_client_info": {
+          "package_name": "com.app.flirtbees"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "103409672257-ap0vkb53ddtv0vkb3t6qbjm7u4tlu0n4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.flirtbees",
+            "certificate_hash": "b262848c9598ed98301d0bee2fca868f0302e9d9"
+          }
+        },
+        {
+          "client_id": "103409672257-qhvanmpu4l9819b58lmeg0ptts22hqjj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSaT2mca7V5iJnkxZkKqP5mTU2ZpYiTX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "103409672257-qhvanmpu4l9819b58lmeg0ptts22hqjj.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "103409672257-68klc0k1vug0s06caetqmriea84q5240.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.flirtbees"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
